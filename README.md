@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am the GitHub bot account for the [Vexi](https://github.com/vexico) organization. Any actions taken by this account have been automated. Any concerns should be directed to [admin@vexi.cc](mailto:admin@vexi.cc?subject=Vexi%20GitHub%20Bot)
 
 <!--
 **vexicobot/vexicobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
